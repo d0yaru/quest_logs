@@ -1,0 +1,35 @@
+body {
+	
+	background: url(https://img3.akspic.ru/crops/7/9/8/1/4/141897/141897-rozovyj-graficeskij_dizajn-grafika-purpurnyj_cvet-kosmos-1920x1080.jpg) top center no-repeat; 
+	background-size: cover;
+	font-family: Arial; 
+	color: #011;
+	text-shadow: 1px 1px 2px pink, 0 0 1em pink, 0 0 0.2em pink;
+	
+}
+
+.main {
+	width: 900px; 
+	margin: 0 auto;
+}
+.help {
+	
+	width: 100%; 
+	float:left; 
+	text-align: center; 
+	font-size:24px;	
+}
+
+a {
+	color: #011;
+	text-decoration: none;
+}
+
+.text-main {
+
+	font-size:20px;
+	margin-top:50px;
+	border-bottom: 1px solid black;
+	padding-bottom:40px;
+	text-align: center;
+}
